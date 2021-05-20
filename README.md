@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ankitkushawaha1000
-- 👀 I’m interested in ML/AI , android dev, web dev
-- 🌱 I’m currently learning android dev,web dev
+- 👀 I’m interested in ML/AI , android dev, web dev ,software dev , robotics , reinforcement learning , deep learning
+- 🌱 I’m currently learning android dev 
 - 💞️ I’m looking to collaborate on ML project
 - 📫 How to reach me ankitkushawaha1000@gmail.com
 
