@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ankitkushawaha1000
-- 👀 I’m interested in ML/AI , android dev, software dev , robotics , reinforcement learning , deep learning
+- 👀 I’m interested in ML/AI , Web dev, software dev , robotics , reinforcement learning , deep learning
 - 💞️ I’m looking to collaborate on ML project
 - 📫 How to reach me ankitkushawaha1000@gmail.com
 
